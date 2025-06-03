@@ -1,1 +1,1 @@
-https://www.figma.com/proto/VzmbRUbx966BCjP3IamX2V/Takatuf-APP?node-id=9-57&t=Mlrogk4ylDjyrxVM-1&scaling=scale-down&content-scaling=fixed&page-id=8%3A56&starting-point-node-id=9%3A57&show-proto-sidebar=1
+
